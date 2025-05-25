@@ -35,7 +35,7 @@ This offline deployment is ideal for professionals and institutions looking for 
 ![Modifier Stack Workflow](https://i.all3dp.com/wp-content/uploads/2020/12/08171810/3ds-max-is-the-tool-of-choice-for-many-autodesk-201202.jpg)  
 *Layered modifier stack workflow with live object previews*
 
-![Scene Rendering Setup](https://www.cgchannel.com/wp-content/uploads/2013/05/130516_ORBX_3dsMaxMac.jpg)  
+![Scene Rendering Setup](https://www.studiodaily.com/wp-content/uploads/2013/07/Populate.png)  
 *Real-time render setup with environment, lighting, and camera configuration*
 
 ---
